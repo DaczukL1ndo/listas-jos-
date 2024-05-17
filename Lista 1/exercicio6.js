@@ -11,10 +11,9 @@ console.log(numero1 + " " + numerofloat + " " + numeroint)
 
 
 console.log("impressão com TAB")
-console.log(numero + "      " + numerofloat + "     " + numeroint)
-
-console.log("impressão em outra linha")
 console.log(numero1 + " " + numerofloat + " " + numeroint)
 
+console.log("impressão em outra linha")
+console.log(numero1 + "\n" + numerofloat + "\n" + numeroint)
 
 
